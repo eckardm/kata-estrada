@@ -1,1 +1,1 @@
-REM 1st video from 7:18 to 7:58s
+REM 1st video from 7:18 to 7:58
